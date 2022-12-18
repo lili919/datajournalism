@@ -11,6 +11,7 @@ This data was posted on March 29, 2021 and downloaded in Novermer, 2022. It focu
 
 These two datasets help understand how the overall situation of gender equality is and how it is in women's political participation in China.
 
-
 The third dataset is from US-China Economic and Security Review Commission that examines the number of women's representation in Chinese leadership. Here's a link to the original data: https://www.uscc.gov/research/women-chinas-leadership
 This data was published on March 30, 2022 and downloaded in November, 2022. It examines women's representation in China in three aspects - Chinese community party, Chinese government, Chinese military.
+
+Here is a link directing to the article: https://lili919.github.io/gender_inequality.html
